@@ -1,3 +1,2 @@
 # research-github
-research github for the first time with gemini
-hello world
+research github for the first time with gemini!!
